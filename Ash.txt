@@ -4,3 +4,6 @@ Excel
 SQL
 Power BI
 PYthon
+jupyter
+data scrapping
+Tableau
